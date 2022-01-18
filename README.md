@@ -12,6 +12,6 @@ Repositório dedicado aos projetos desenvolvidos ao longo do bootcamp Amdocs JAV
 
 [Download Mark Text](https://marktext.app/)
 
-[Apostilas sobre Linux](guiafoca.org)
+[Apostilas sobre Linux](https://guiafoca.org/#download)
 
 
