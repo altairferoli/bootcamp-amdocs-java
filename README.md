@@ -12,6 +12,6 @@ Repositório dedicado aos projetos desenvolvidos ao longo do bootcamp Amdocs JAV
 
 [Download Mark Text](https://marktext.app/)
 
-[Apostilas sobre Linux](https://guiafoca.org/#download)
+[Repositório com instruções para instalar Git, Eclipse e IntelliJ](https://github.com/cami-la/curso-dio-dominando-ides-java)
 
-
+[]Download Visual Studio Code](https://code.visualstudio.com/download)
